@@ -1,4 +1,4 @@
-# Assignment_2
+# Assignment_1
 “Looking for Fermat’s Last Theorem Near Misses”
 
 The program will read in two values entered by the interactive user (N & K) and
